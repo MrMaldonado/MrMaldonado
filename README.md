@@ -23,18 +23,4 @@ Soy un apasionado por la creación de soluciones digitales, con un fuerte enfoqu
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" />
-</a>
-</div>
-
----
-
-### 📫 Contáctame
-* 📧 mmhuaiquileft@gmail.com
